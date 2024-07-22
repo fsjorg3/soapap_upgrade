@@ -1,5 +1,5 @@
 import { Box } from '@mui/material'
-import aguita from '../assets/aguita.png'
+import aguita from '../assets/img/background/aguita.png'
 
 
 
